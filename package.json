@@ -34,10 +34,10 @@
     "extension": true
   },
   "dependencies": {
-    "@jupyterlab/application": "^2.1.2",
-    "@jupyterlab/codemirror": "^2.1.1",
-    "@jupyterlab/cells": "^2.1.2",
-    "@jupyterlab/notebook": "^2.1.2",
+    "@jupyterlab/application": "^3.0.0",
+    "@jupyterlab/codemirror": "^3.0.0",
+    "@jupyterlab/cells": "^3.0.0",
+    "@jupyterlab/notebook": "^3.0.0",
     "@lumino/commands": "^1.11.0",
     "@lumino/coreutils": "^1.5.0",
     "@lumino/domutils": "^1.2.0",
